@@ -1,4 +1,4 @@
-# HDX-MS Mixed-Solvent and Salt-Dependent Analysis Pipeline
+# HDX-MS Analysis Pipeline
 
 This repository contains the Python code used in a thesis project to model and analyze **hydrogen/deuterium exchange mass spectrometry (HDX-MS)** measurements of small peptides across multiple salt conditions and charge states.
 
